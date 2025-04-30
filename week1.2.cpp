@@ -37,7 +37,7 @@ int main(){
     
     }
     
-    cout <<"----Employee information Result-----" <<endl;
+    cout <<"----Employee Result-----" <<endl;
     for (int counter = 0; counter < 2; counter++)
     
     {
