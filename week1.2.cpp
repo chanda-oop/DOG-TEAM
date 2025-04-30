@@ -9,7 +9,7 @@ struct employeeType
   double yearlySalary;
   double monthlySalary;
   double yearToDatePaid;
-  double monthlyBonus;
+  double som 10$ mk b;
 };
 int main(){
       double payCheck;
